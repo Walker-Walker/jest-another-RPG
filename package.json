@@ -1,0 +1,25 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "jest-another-RPG",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/walker-walker/jest-another-RPG.git"
+  },
+  "keywords": [
+    "potion",
+    "enemy",
+    "player",
+    "game"
+  ],
+  "author": "walker-walker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/walker-walker/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/walker-walker/jest-another-RPG#readme"
+}
